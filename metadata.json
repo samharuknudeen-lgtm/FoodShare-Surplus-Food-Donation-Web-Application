@@ -1,0 +1,8 @@
+{
+  "name": "FoodShare",
+  "description": "A platform for redistributing surplus food between donors and receivers to reduce waste and help those in need.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
